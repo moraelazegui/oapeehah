@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fuuneizouf.eddiebauer.ai/sitemap.xml
